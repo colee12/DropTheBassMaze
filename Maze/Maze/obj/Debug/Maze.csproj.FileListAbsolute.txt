@@ -1,0 +1,9 @@
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\ColeE\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
